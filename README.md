@@ -7,120 +7,122 @@ Author - Mansoor Kalwar
 
 Course-Outline
 
-1. NumPy Basics
-	•	Installing NumPy
-	•	Creating arrays
-	•	Array attributes (shape, size, ndim, dtype)
-	•	Data types
+# NumPy Learning Roadmap
 
-2. Array Creation
-	•	array()
-	•	zeros()
-	•	ones()
-	•	full()
-	•	empty()
-	•	arange()
-	•	linspace()
-	•	eye()
-	•	Random arrays (rand, randn, randint)
+## 1. NumPy Basics
+- Installing NumPy
+- Creating arrays
+- Array attributes (`shape`, `size`, `ndim`, `dtype`)
+- Data types
 
-3. Indexing and Slicing
-	•	1D arrays
-	•	2D arrays
-	•	3D arrays
-	•	Boolean indexing
-	•	Fancy indexing
+## 2. Array Creation
+- `array()`
+- `zeros()`
+- `ones()`
+- `full()`
+- `empty()`
+- `arange()`
+- `linspace()`
+- `eye()`
+- Random arrays (`rand`, `randn`, `randint`)
 
-4. Array Reshaping
-	•	reshape()
-	•	flatten()
-	•	ravel()
-	•	transpose()
-	•	expand_dims()
-	•	squeeze()
+## 3. Indexing and Slicing
+- 1D arrays
+- 2D arrays
+- 3D arrays
+- Boolean indexing
+- Fancy indexing
 
-5. Mathematical Operations
-	•	Arithmetic operations
-	•	Broadcasting
-	•	Universal functions (ufuncs)
-	•	Element-wise operations
+## 4. Array Reshaping
+- `reshape()`
+- `flatten()`
+- `ravel()`
+- `transpose()`
+- `expand_dims()`
+- `squeeze()`
 
-6. Statistics
-	-	mean()
-	-	median()
-	-	std()
-	-	var()
-	-	sum()
-	-	min()
-	-	max()
-	-	argmin()
-	-	argmax()
-	-	percentile()
-	-	quantile()
+## 5. Mathematical Operations
+- Arithmetic operations
+- Broadcasting
+- Universal functions (ufuncs)
+- Element-wise operations
 
-7. Aggregation Along Axes
-	•	axis=0
-	•	axis=1
-	•	Keep dimensions (keepdims)
+## 6. Statistics
+- `mean()`
+- `median()`
+- `std()`
+- `var()`
+- `sum()`
+- `min()`
+- `max()`
+- `argmin()`
+- `argmax()`
+- `percentile()`
+- `quantile()`
 
-8. Boolean Operations
-	•	Comparison operators
-	•	Logical operators
-	•	where()
-	•	any()
-	•	all()
+## 7. Aggregation Along Axes
+- `axis=0`
+- `axis=1`
+- `keepdims`
 
-9. Sorting and Searching
-	•	sort()
-	•	argsort()
-	•	unique()
-	•	searchsorted()
+## 8. Boolean Operations
+- Comparison operators
+- Logical operators
+- `where()`
+- `any()`
+- `all()`
 
-10. Combining and Splitting Arrays
-	•	concatenate()
-	•	stack()
-	•	vstack()
-	•	hstack()
-	•	split()
-	•	array_split()
+## 9. Sorting and Searching
+- `sort()`
+- `argsort()`
+- `unique()`
+- `searchsorted()`
 
-11. Linear Algebra
-	•	Matrix multiplication
-	•	dot()
-	•	matmul()
-	•	Matrix transpose
-	•	Inverse
-	•	Determinant
-	•	Eigenvalues (basic understanding)
+## 10. Combining and Splitting Arrays
+- `concatenate()`
+- `stack()`
+- `vstack()`
+- `hstack()`
+- `split()`
+- `array_split()`
 
-12. Random Module
-	•	Random seeds
-	•	Uniform distribution
-	•	Normal distribution
-	•	Random sampling
-	•	Shuffle
-	•	Permutation
+## 11. Linear Algebra
+- Matrix multiplication
+- `dot()`
+- `matmul()`
+- Matrix transpose
+- Inverse
+- Determinant
+- Eigenvalues (basic understanding)
 
-13. Broadcasting (Very Important)
-	•	Broadcasting rules
-	•	Real-world examples
-	•	Performance benefits
+## 12. Random Module
+- Random seeds
+- Uniform distribution
+- Normal distribution
+- Random sampling
+- Shuffle
+- Permutation
 
-14. Performance Optimization
-	•	Vectorization
-	•	Avoiding Python loops
-	•	Memory efficiency
-	•	Timing code
+## 13. Broadcasting (Very Important)
+- Broadcasting rules
+- Real-world examples
+- Performance benefits
 
-15. Missing Values
-	•	np.nan
-	•	isnan()
-	•	nanmean()
-	•	nanstd()
-	•	nanmedian()
+## 14. Performance Optimization
+- Vectorization
+- Avoiding Python loops
+- Memory efficiency
+- Timing code
 
-16. File Input/Output
-	•	loadtxt()
-	•	genfromtxt()
-	•	save()
-	•	load()
+## 15. Missing Values
+- `np.nan`
+- `isnan()`
+- `nanmean()`
+- `nanstd()`
+- `nanmedian()`
+
+## 16. File Input/Output
+- `loadtxt()`
+- `genfromtxt()`
+- `save()`
+- `load()`
