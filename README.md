@@ -46,17 +46,17 @@ Course-Outline
 	•	Element-wise operations
 
 6. Statistics
-	•	mean()
-	•	median()
-	•	std()
-	•	var()
-	•	sum()
-	•	min()
-	•	max()
-	•	argmin()
-	•	argmax()
-	•	percentile()
-	•	quantile()
+	-	mean()
+	-	median()
+	-	std()
+	-	var()
+	-	sum()
+	-	min()
+	-	max()
+	-	argmin()
+	-	argmax()
+	-	percentile()
+	-	quantile()
 
 7. Aggregation Along Axes
 	•	axis=0
